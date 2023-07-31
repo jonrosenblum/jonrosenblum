@@ -87,7 +87,6 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
   <img src="https://github-readme-stats.vercel.app/api?username=jonrosenblum&show_icons=true&theme=dark&title_color=fff&text_color=fff&bg_color=091D3B" alt="Prowise  GitHub stats" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonrosenblum&theme=dark&background=091D3B&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&dates=fff" alt="Prowise  GitHub streak" height="160px" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrosenblum)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me 🔗
 
