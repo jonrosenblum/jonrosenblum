@@ -8,7 +8,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ## Experience 💼
 
-### Project Manager, CRAZE (April 2018 - May 2021)
+### Project Manager, CRAZE (September 2021 - April 2022)
 
 - 🤝 Collaborated with design teams to bring captivating visual designs to life on functional web pages.
 - 🚀 Developed and implemented website features like forms, search bars, and interactive elements.
@@ -16,10 +16,12 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 - 🔄 Updated and maintained existing websites with fresh content, features, and functionalities.
 - 📚 Stayed ahead of the curve with the latest web development trends and technologies.
 
-### Retail Business Consultant, Morton’s Official Camp Outfitter (May 2020 - October 2022)
+### Retail Business Consultant, Morton’s Official Camp Outfitter (October 2015 - August 2021)
 
 - 🌐 Created a revenue-generating e-commerce site (www.mortonscedarhurst.com).
 - 📦 Managed online orders and inventory allocation for seamless online purchases.
+- 📚 Researched and provided cost-effective solutions that improved business processes by adding or removing technologies.
+- 🔄 Optimized shipping operations for the business, resulting in a 20% reduction in shipping and handling times.
 
 ## Key Skills 🛠️
 
