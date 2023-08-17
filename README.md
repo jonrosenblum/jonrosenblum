@@ -26,6 +26,20 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 ## Key Skills 🛠️
 
 <table>
+     <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+            <br>
+        </td>
+    </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
