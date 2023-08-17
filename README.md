@@ -40,7 +40,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
            <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
             <br>
         </td>
     </tr>
@@ -58,7 +58,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
             <br>
         </td>
     </tr>
