@@ -76,7 +76,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
             <br>
         </td>
     </tr>
