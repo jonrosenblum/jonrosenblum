@@ -39,6 +39,10 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
             <br>
         </td>
+           <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <br>
+        </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
@@ -51,6 +55,10 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
             <br>
         </td>
     </tr>
@@ -67,6 +75,10 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
             <br>
         </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <br>
+        </td>
     </tr>
     <tr>
          <td align="center" style="border:1px solid #3A424A">
@@ -79,6 +91,10 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
             <br>
         </td>
     </tr>
