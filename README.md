@@ -76,13 +76,13 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+            <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white">
             <br>
         </td>
     </tr>
     <tr>
          <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
