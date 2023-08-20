@@ -34,7 +34,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 <table>
      <tr>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white>
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
@@ -70,7 +70,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
