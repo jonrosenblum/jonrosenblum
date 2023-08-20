@@ -56,7 +56,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
