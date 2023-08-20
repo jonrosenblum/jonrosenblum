@@ -8,20 +8,26 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ## Experience 💼
 
+### Community Event Coordinator, The Phoenix (September 2023 - May 2023)
+- 📚 Researched and selected appropriate community projects that aligned with the mission and values of ThePhoenix.org
+- 🔄 Acted as liaison between volunteers and community members
+- 🌐 Led routine evaluations of the impact of the activity and decided on necessary adjustments for future iterations
+- 🤝 Supervised community events and trained new volunteers
+
 ### Project Manager, CRAZE (September 2021 - April 2022)
 
-- 🤝 Collaborated with design teams to bring captivating visual designs to life on functional web pages.
-- 🚀 Developed and implemented website features like forms, search bars, and interactive elements.
+- 🤝 Designed and managed a new customer on-boarding process for marketing services, improving customer retention by ~20%
+- 🚀 Conducted 100+ user interviews, created schedules, and owned project development from ideation of features to development
 - 🛠️ Thoroughly tested and debugged websites to ensure smooth functionality across various devices and browsers.
-- 🔄 Updated and maintained existing websites with fresh content, features, and functionalities.
-- 📚 Stayed ahead of the curve with the latest web development trends and technologies.
+- 🔄 Collaborated with design teams to translate visual designs into functional web pages
+- 📚 Provided training to content management team for continuous updating of websites
 
 ### Retail Business Consultant, Morton’s Official Camp Outfitter (October 2015 - August 2021)
 
-- 🌐 Created a revenue-generating e-commerce site (www.mortonscedarhurst.com).
-- 📦 Managed online orders and inventory allocation for seamless online purchases.
-- 📚 Researched and provided cost-effective solutions that improved business processes by adding or removing technologies.
-- 🔄 Optimized shipping operations for the business, resulting in a 20% reduction in shipping and handling times.
+- 🌐 Designed e-commerce site increasing total revenue stream by ~10%
+- 📦 Managed all revenue generated through the website, allocated inventory for online purchases and fulfilled all orders
+- 📚 Researched and provided cost-effective solutions that improved business processes such as POS system, store layout, and local marketing
+- 🔄 Optimized shipping operations by creating an automated pipeline for fulfillment, resulting in a 20% reduction in shipping times
 
 ## Key Skills 🛠️
 
@@ -130,6 +136,13 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 - ☁️ AWS Cloud Practitioner
 - 💻 Full-Stack Developer (Columbia Engineering)
+
+## Hobbies and Interests 
+
+- University of Georgia Football
+- Study Abroad (Spain, London)
+- Outdoor Adventures
+- Volunteer Work
 
 ## Github Stats 📈
 
