@@ -127,10 +127,10 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ## Education 🎓
 
-- 🎓 Bachelor of Arts in Sociology, University of Georgia, January 2021 - May 2023
-- 💻 Software Engineering Boot Camp, Flat Iron School - New York City, June 2023 - September 2023
+- 🎓 Bachelor of Arts in Sociology, University of Georgia, May 2023
+- 💻 Software Engineering Boot Camp, Flat Iron School - New York City, September 2023
 - 🖥️ Full Stack Developer Boot Camp, Columbia Engineering, September 2022
-- 🎓 School of Information, University of Michigan - Ann Arbor, September 2016 - March 2020
+- 🎓 School of Information, University of Michigan - Ann Arbor
 
 ## Certifications 🏆
 
