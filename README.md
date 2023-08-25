@@ -16,8 +16,8 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ### Project Manager, CRAZE (September 2021 - April 2022)
 
-- 🤝 Designed and managed a new customer on-boarding process for marketing services, improving customer retention by ~20%
-- 🚀 Conducted 100+ user interviews, created schedules, and owned project development from ideation of features to development
+- 🤝 Designed and managed a new customer on-boarding process for marketing services, improving retention by ~20%
+- 🚀 Conducted 100+ user interviews, created schedules, and oversaw project development from ideation to development
 - 🛠️ Thoroughly tested and debugged websites to ensure smooth functionality across various devices and browsers.
 - 🔄 Collaborated with design teams to translate visual designs into functional web pages
 - 📚 Provided training to content management team for continuous updating of websites
