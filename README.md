@@ -8,7 +8,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ## Experience 💼
 
-### Community Event Coordinator, The Phoenix (September 2023 - May 2023)
+### Community Event Coordinator, The Phoenix (September 2022 - May 2023)
 - 📚 Researched and selected appropriate community projects that aligned with the mission and values of ThePhoenix.org
 - 🔄 Acted as liaison between volunteers and community members
 - 🌐 Led routine evaluations of the impact of the activity and decided on necessary adjustments for future iterations
