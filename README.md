@@ -6,29 +6,6 @@
 
 I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end and back-end projects. I thrive on clean, collaborative coding experiences, working with teams to create captivating user interfaces. My true passion lies in bridging the gap between everyday users and technology, crafting inclusive and user-friendly applications. Let's collaborate to bring your projects to life and make a positive impact together.
 
-## Experience 💼
-
-### Community Event Coordinator, The Phoenix (September 2022 - May 2023)
-- 📚 Researched and selected appropriate community projects that aligned with the mission and values of ThePhoenix.org
-- 🔄 Acted as liaison between volunteers and community members
-- 🌐 Led routine evaluations of the impact of the activity and decided on necessary adjustments for future iterations
-- 🤝 Supervised community events and trained new volunteers
-
-### Project Manager, CRAZE (September 2021 - April 2022)
-
-- 🤝 Designed and managed a new customer on-boarding process for marketing services, improving retention by ~20%
-- 🚀 Conducted 100+ user interviews, created schedules, and oversaw project development from ideation to development
-- 🛠️ Thoroughly tested and debugged websites to ensure smooth functionality across various devices and browsers.
-- 🔄 Collaborated with design teams to translate visual designs into functional web pages
-- 📚 Provided training to content management team for continuous updating of websites
-
-### Retail Business Consultant, Morton’s Official Camp Outfitter (October 2015 - August 2021)
-
-- 🌐 Designed e-commerce site increasing total revenue stream by ~10%
-- 📦 Managed all revenue generated through the website, allocated inventory for online purchases and fulfilled all orders
-- 📚 Researched and provided cost-effective solutions that improved business processes such as POS system, store layout, and local marketing
-- 🔄 Optimized shipping operations by creating an automated pipeline for fulfillment, resulting in a 20% reduction in shipping times
-
 ## Key Skills 🛠️
 
 <table>
