@@ -19,11 +19,16 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
             <br>
         </td>
            <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
             <br>
         </td>
     </tr>
@@ -44,6 +49,11 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
             <br>
         </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+            <br>
+        </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
@@ -60,6 +70,11 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
         </td>
           <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
             <br>
         </td>
     </tr>
@@ -80,6 +95,11 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
             <br>
         </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+            <br>
+        </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
@@ -98,6 +118,11 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <br>
         </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+            <br>
+        </td>
     </tr>
     <tr>
 </table>
@@ -114,7 +139,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 - ☁️ AWS Cloud Practitioner
 - 💻 Full-Stack Developer (Columbia Engineering)
 
-## Hobbies and Interests 
+## Hobbies and Interests
 
 - University of Georgia Football
 - Study Abroad (Spain, London)
