@@ -136,8 +136,9 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 
 ## Certifications 🏆
 
-- ☁️ AWS Cloud Practitioner
-- 💻 Full-Stack Developer (Columbia Engineering)
+- 💻 Software Engineering (Flat Iron School)
+- ☁️ AWS Certified Cloud Practitioner
+- 💻 Full-Stack Web Development (Columbia Engineering)
 
 ## Hobbies and Interests
 
