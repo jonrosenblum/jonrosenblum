@@ -42,7 +42,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
