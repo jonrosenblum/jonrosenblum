@@ -115,7 +115,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+            <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=blue">
             <br>
         </td>
         </td>
