@@ -107,7 +107,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
