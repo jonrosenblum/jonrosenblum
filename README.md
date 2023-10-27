@@ -152,7 +152,7 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="Prowise  GitHub stats" height="160px" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonrosenblum&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ## Connect with Me 🔗
