@@ -6,6 +6,14 @@
 
 I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end and back-end projects. I thrive on clean, collaborative coding experiences, working with teams to create captivating user interfaces. My true passion lies in bridging the gap between everyday users and technology, crafting inclusive and user-friendly applications. Let's collaborate to bring your projects to life and make a positive impact together.
 
+## Github Stats 📈
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=jonrosenblum&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
+</div>
+
 ## Key Skills 🛠️
 
 <table>
@@ -146,14 +154,6 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 - Study Abroad (Spain, London)
 - Outdoor Adventures
 - Volunteer Work
-
-## Github Stats 📈
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
-<img src="https://streak-stats.demolab.com?user=jonrosenblum&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160px" />
-</div>
 
 ## Connect with Me 🔗
 
