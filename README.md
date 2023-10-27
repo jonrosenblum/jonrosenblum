@@ -12,10 +12,6 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
   <img src="https://streak-stats.demolab.com?user=jonrosenblum&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160px" />
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
-</div>
 
 ## Key Skills 🛠️
 
