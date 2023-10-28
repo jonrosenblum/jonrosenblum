@@ -163,4 +163,4 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
-  <img src="https://visitcount.itsvg.in/api?id=jonrosenblum&label=Profile%20Views&color=1&pretty=false">
+  <img src="https://komarev.com/ghpvc/?username=jonrosenblum&base=1000">
