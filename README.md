@@ -162,3 +162,5 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 <a href="https://www.linkedin.com/in/jonrosenblum/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<br>
+[![](https://visitcount.itsvg.in/api?id=jonrosenblum&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
