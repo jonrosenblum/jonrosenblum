@@ -7,7 +7,7 @@
 I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end and back-end projects. I thrive on clean, collaborative coding experiences, working with teams to create captivating user interfaces. My true passion lies in bridging the gap between everyday users and technology, crafting inclusive and user-friendly applications. Let's collaborate to bring your projects to life and make a positive impact together.
 
 ## Github Stats 📈
-
+<img src="https://komarev.com/ghpvc/?username=jonrosenblum&base=1000">
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonrosenblum&theme=cobalt" alt="Prowise  GitHub stats" height="160px" />
   <img src="https://streak-stats.demolab.com?user=jonrosenblum&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160px" />
@@ -162,5 +162,3 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
 <a href="https://www.linkedin.com/in/jonrosenblum/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<br>
-  <img src="https://komarev.com/ghpvc/?username=jonrosenblum&base=1000">
