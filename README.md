@@ -131,6 +131,29 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
     </tr>
+      <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+            <br>
+        </td>
+    </tr>
     <tr>
 </table>
 
