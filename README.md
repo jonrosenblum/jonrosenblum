@@ -154,8 +154,6 @@ I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end
             <br>
         </td>
     </tr>
-
-    <tr>
 </table>
 
 ## Education 🎓
