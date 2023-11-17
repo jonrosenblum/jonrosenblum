@@ -1,5 +1,3 @@
-<img src="./Assets/banner.png">
-
 ## Github Stats 📈
 <img src="https://komarev.com/ghpvc/?username=jonrosenblum&base=1000">
 <div style="display: flex; flex-wrap: wrap;">
