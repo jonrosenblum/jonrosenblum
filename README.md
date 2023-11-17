@@ -1,11 +1,5 @@
 <img src="./Assets/banner.png">
 
-👋 Hi there! I'm Jon Rosenblum, a passionate software developer based in New York, NY. Let's embark on a journey through my software development endeavors! 🚀
-
-## About Me 😃
-
-I am an Agile Full-Stack Developer showcasing a diverse portfolio with front-end and back-end projects. I thrive on clean, collaborative coding experiences, working with teams to create captivating user interfaces. My true passion lies in bridging the gap between everyday users and technology, crafting inclusive and user-friendly applications. Let's collaborate to bring your projects to life and make a positive impact together.
-
 ## Github Stats 📈
 <img src="https://komarev.com/ghpvc/?username=jonrosenblum&base=1000">
 <div style="display: flex; flex-wrap: wrap;">
